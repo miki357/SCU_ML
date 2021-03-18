@@ -4,7 +4,7 @@
 Kaggle 連結:[Ghouls, Goblins, and Ghosts... Boo!](https://www.kaggle.com/c/ghouls-goblins-and-ghosts-boo/discussion/222922)
 
 #### Kaggle Competition 2
-
+Kaggle 連結:[Digit Recognizer](https://www.kaggle.com/c/digit-recognizer/overview)
 
 #### Kaggle Competition 3
 
