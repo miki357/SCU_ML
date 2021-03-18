@@ -10,7 +10,7 @@ Kaggle 連結:[Digit Recognizer](https://www.kaggle.com/c/digit-recognizer/overv
 選擇這個競賽的原因：利用MNIST這個非常有名的資料來練習用keras建CNN的模型
 
 #### [Kaggle Competition 3]
-Kaggle 連結:[Kannada MNIST](https://www.kaggle.com/c/Kannada-MNIST/overview)
+Kaggle 連結:[Kannada MNIST](https://www.kaggle.com/c/Kannada-MNIST/overview)  
 選擇這個競賽的原因：利用這個跟MNIST很像的資料及來練習用pytroch建CNN的模型
 
 #### Kaggle Competition 4
