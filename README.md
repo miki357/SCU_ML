@@ -9,7 +9,7 @@ Kaggle 連結:[Ghouls, Goblins, and Ghosts... Boo!](https://www.kaggle.com/c/gho
 Kaggle 連結:[Digit Recognizer](https://www.kaggle.com/c/digit-recognizer/overview)  
 選擇這個競賽的原因：利用MNIST這個非常有名的資料來練習用keras建CNN的模型
 
-#### [Kaggle Competition 3]
+#### [Kaggle Competition 3](https://github.com/cherrytora/SCU_ML/blob/main/Kaggle_3.ipynb)
 Kaggle 連結:[San Francisco Crime Classification](https://www.kaggle.com/c/sf-crime)  
 選擇這個競賽的原因：用不同資料來練習以keras建立模型
 
