@@ -18,3 +18,6 @@ Kaggle 連結:[San Francisco Crime Classification](https://www.kaggle.com/c/sf-c
 
 #### Kaggle Competition 5
 
+
+>> github打不開的時候可以用的小工具[nbviewer](https://nbviewer.jupyter.org/)
+
