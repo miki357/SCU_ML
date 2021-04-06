@@ -17,8 +17,10 @@ Kaggle 連結:[San Francisco Crime Classification](https://www.kaggle.com/c/sf-c
 Kaggle 連結:[IEEE-CIS Fraud Detection](https://www.kaggle.com/c/ieee-fraud-detection/data)  
 選擇這個競賽的原因：練習資料前處理、missing value 處理
 
-#### Kaggle Competition 5
+#### [Kaggle Competition 5]()
+Kaggle 連結:[Leaf Classification](https://www.kaggle.com/c/leaf-classification/discussion)
+選擇這個競賽的原因：練習catboost分類
   
-
+  
 > github打不開的時候可以用的小工具[nbviewer](https://nbviewer.jupyter.org/)
 
