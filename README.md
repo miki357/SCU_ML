@@ -18,7 +18,7 @@ Kaggle 連結:[IEEE-CIS Fraud Detection](https://www.kaggle.com/c/ieee-fraud-det
 選擇這個競賽的原因：練習資料前處理、missing value 處理
 
 #### [Kaggle Competition 5]()
-Kaggle 連結:[Leaf Classification](https://www.kaggle.com/c/leaf-classification/discussion)
+Kaggle 連結:[Leaf Classification](https://www.kaggle.com/c/leaf-classification/discussion)  
 選擇這個競賽的原因：練習catboost分類
   
   
