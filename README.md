@@ -13,8 +13,9 @@ Kaggle 連結:[Digit Recognizer](https://www.kaggle.com/c/digit-recognizer/overv
 Kaggle 連結:[San Francisco Crime Classification](https://www.kaggle.com/c/sf-crime)  
 選擇這個競賽的原因：用不同資料來練習以keras建立模型
 
-#### Kaggle Competition 4
-
+#### [Kaggle Competition 4](https://github.com/cherrytora/SCU_ML/blob/main/Kaggle_4.ipynb)
+Kaggle 連結:[IEEE-CIS Fraud Detection](https://www.kaggle.com/c/ieee-fraud-detection/data)  
+選擇這個競賽的原因：練習資料前處理、missing value 處理
 
 #### Kaggle Competition 5
   
