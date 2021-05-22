@@ -24,4 +24,5 @@ Kaggle 連結:[Leaf Classification](https://www.kaggle.com/c/leaf-classification
   
   
 > github打不開的時候可以用的小工具[nbviewer](https://nbviewer.jupyter.org/)
+> [用command上傳檔案教學](https://medium.com/@s110319022/github-%E5%85%A5%E9%96%80-%E4%BA%8C-%E4%BD%BF%E7%94%A8%E7%B5%82%E7%AB%AF%E6%A9%9F%E4%B8%8A%E5%82%B3%E6%AA%94%E6%A1%88%E5%88%B0github-cfa55e1903fa)
 
